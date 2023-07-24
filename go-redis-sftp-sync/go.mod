@@ -1,4 +1,4 @@
-module github/com/jiteshchawla1511/go-redis-sftp-sync
+module github.com/jiteshchawla1511/go-redis-sftp-sync
 
 go 1.19
 

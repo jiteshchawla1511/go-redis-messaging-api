@@ -10,7 +10,7 @@ import (
 )
 
 var redisClient = redis.NewClient(&redis.Options{
-	Addr: "0.tcp.in.ngrok.io:16288",
+	Addr: "localhost:6379",
 })
 
 type User struct {

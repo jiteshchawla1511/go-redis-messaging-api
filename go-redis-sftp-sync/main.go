@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"github/com/jiteshchawla1511/go-redis-sftp-sync/model"
-	"github/com/jiteshchawla1511/go-redis-sftp-sync/util"
 	"log"
 	"os"
+
+	"github.com/jiteshchawla1511/go-redis-sftp-sync/model"
+	"github.com/jiteshchawla1511/go-redis-sftp-sync/util"
 
 	"github.com/joho/godotenv"
 	"golang.org/x/crypto/ssh"
