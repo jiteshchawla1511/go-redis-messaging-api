@@ -25,7 +25,7 @@ A Go lang microservice to interact with redis messaging queue and SFTP server
 3. Install the necessary dependencies:
    
    ```bash
-   cd go mod download
+   go mod download
    ```
 
 4. Run the Redis Server
